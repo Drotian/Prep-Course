@@ -5,7 +5,8 @@ h1 { color:orange}
             width: 600px;
             background-color: orange;
             padding: 50px;
-            border: 5px solid peru
+            border: 5px solid peru;
+            margin: 25px;
         }
         #spanId {
             font-size: 18px;
